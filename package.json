@@ -150,7 +150,7 @@
     "react-test-renderer": "^16.5.2",
     "rimraf": "2.6.2",
     "sass-loader": "^7.0.1",
-    "shelljs": "^0.8.1",
+    "shelljs": "^0.8.5",
     "style-loader": "0.23.1",
     "ts-jest": "^23.10.5",
     "ts-loader": "^5.3.3",
