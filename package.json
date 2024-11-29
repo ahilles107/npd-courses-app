@@ -51,7 +51,7 @@
     "@types/react-router-dom": "^5.1.5",
     "@types/redux-logger": "^3.0.7",
     "@vimeo/player": "^2.10.0",
-    "axios": "^0.19",
+    "axios": "^0.21",
     "chalk": "^2.3.2",
     "compression": "1.7.3",
     "connected-react-router": "^6.5.2",
