@@ -65,7 +65,7 @@
     "history": "4.7.2",
     "hoist-non-react-statics": "3.0.1",
     "i18next": "^15.0.4",
-    "immer": "^3.2.0",
+    "immer": "^9.0.6",
     "immutable": "3.8.2",
     "invariant": "2.2.4",
     "ip": "1.1.5",
